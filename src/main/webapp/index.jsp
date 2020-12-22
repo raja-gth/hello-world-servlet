@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>hi........raja
-  welcome</h2>
+<h2>hi........raja</h2>
 </body>
 </html>
